@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Linq;
 using System.Collections.Generic;
-using NetBots.Core;
+using NetBots.EngineModels;
 using NetBots.WebModels;
 
 namespace GrahamBot

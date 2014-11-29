@@ -1,4 +1,4 @@
-﻿using NetBots.Core;
+﻿using NetBots.EngineModels;
 
 namespace GrahamBot
 {

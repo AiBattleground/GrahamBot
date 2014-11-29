@@ -38,11 +38,11 @@
     <Compile Include="Route.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Reference Include="NetBots.Core, Version=1.1.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\packages\NetBots.Core.1.1.0.0\lib\net45\NetBots.Core.dll</HintPath>
+    <Reference Include="NetBots.EngineModels">
+      <HintPath>..\packages\NetBots.EngineModels.1.1.0.0\lib\net45\NetBots.EngineModels.dll</HintPath>
     </Reference>
-    <Reference Include="NetBots.WebModels">
+    <Reference Include="NetBots.WebModels, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
       <HintPath>..\packages\NetBots.WebModels.1.0.0.0\lib\net40\NetBots.WebModels.dll</HintPath>
     </Reference>
     <Reference Include="Newtonsoft.Json, Version=6.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">

@@ -1,5 +1,5 @@
 ﻿using System.Collections.ObjectModel;
-using NetBots.Core;
+using NetBots.EngineModels;
 using NetBots.WebModels;
 
 namespace GrahamBot
